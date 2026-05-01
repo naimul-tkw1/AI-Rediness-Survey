@@ -1,0 +1,6 @@
+{
+  "name": "AI Readiness Scorecard",
+  "description": "An interactive tool to help teams assess whether a problem is a strong candidate for an AI-based solution, based on the Government of Canada AI Readiness framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
